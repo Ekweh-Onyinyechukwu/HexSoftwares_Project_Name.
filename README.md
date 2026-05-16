@@ -1,7 +1,7 @@
 # HexSoftwares_Project_Name.
 # StayEase — Travel Booking Landing Page UI/UX Case Study
 
-!(DESKTOP VIEW.jpg)
+![](DESKTOP VIEW.jpg)
 
 ---
 
