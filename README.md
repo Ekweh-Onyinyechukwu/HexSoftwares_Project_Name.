@@ -215,15 +215,9 @@ Every section of this landing page was intentionally designed to guide users nat
 
 ---
 
-# Preview
-
-![StayEase Full UI](stayease-full-ui.png)
-
----
-
 # Designer
 
-**Blessing Onyinye Chukwuekwe**  
+**Bebe Zamchukwu Ekweh**  
 UI/UX Designer
 
 ---
